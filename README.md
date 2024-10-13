@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 def me()
 OS: Win 11 24H2, Android 14<br>Uptime: 18 years, 4 months<br>Host: Jamia Millia Islamia<br>Kernel: Bachelors Of Tech In Computer Engineering<br>IDE: VS Code<br><br>lang.code: C++, C, Java, Python, Javascript<br>lang.comp: HTML, CSS, LaTeX<br>lang.comms: English, Hindi<br><br>Coding with patience.<br>Building the most unique marketing agency - theteamv.com
 
 
