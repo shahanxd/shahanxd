@@ -1,9 +1,13 @@
-# 💫 def me()
-<a href="https://github.com/shahanxd/shahanxd">
+# 💫 def me()<a href="https://github.com/shahanxd/shahanxd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/shahanxd/shahanxd/156a9babeb510d8d6df3b9e4108b028854ec8c17/about_light.svg">
-    style="width:100px; height:auto;">
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about_dark.svg"
+      style="width:100px; height:auto;">
+    <img 
+      src="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about_dark.svg" 
+      alt="GitHub Profile README"
+      style="width:100px; height:auto;">
   </picture>
 </a>
 
