@@ -1,7 +1,10 @@
 # 💫 def me()
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component pid-e4bf0573-9f1e-4814-831c-0994c3d09fef"></div>
-OS: Win 11 24H2, Android 14<br>Uptime: 18 years, 4 months<br>Host: Jamia Millia Islamia<br>Kernel: Bachelors Of Tech In Computer Engineering<br>IDE: VS Code<br><br>lang.code: C++, C, Java, Python, Javascript<br>lang.comp: HTML, CSS, LaTeX<br>lang.comms: English, Hindi<br><br>Coding with patience.<br>Building the most unique marketing agency - theteamv.com
+<a href="https://github.com/shahanxd/shahanxd">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+  </picture>
+</a>
 
 
 ## 🌐 Socials:
