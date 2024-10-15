@@ -1,7 +1,8 @@
 # 💫 def me()<a href="https://github.com/shahanxd/shahanxd">
 <a href="https://github.com/shahanxd/shahanxd">
-  <picture width="100px">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about_dark.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about.svg">
+    <img src="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about.svg" width="100" alt="GitHub Profile README">
   </picture>
 </a>
 
