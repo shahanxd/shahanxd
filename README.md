@@ -1,4 +1,6 @@
 # 💫 def me()
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-e4bf0573-9f1e-4814-831c-0994c3d09fef"></div>
 OS: Win 11 24H2, Android 14<br>Uptime: 18 years, 4 months<br>Host: Jamia Millia Islamia<br>Kernel: Bachelors Of Tech In Computer Engineering<br>IDE: VS Code<br><br>lang.code: C++, C, Java, Python, Javascript<br>lang.comp: HTML, CSS, LaTeX<br>lang.comms: English, Hindi<br><br>Coding with patience.<br>Building the most unique marketing agency - theteamv.com
 
 
