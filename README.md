@@ -1,16 +1,9 @@
 # 💫 def me()<a href="https://github.com/shahanxd/shahanxd">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about_dark.svg"
-      style="width:100px; height:auto;">
-    <img 
-      src="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about_dark.svg" 
-      alt="GitHub Profile README"
-      style="width:100px; height:auto;">
+<a href="https://github.com/shahanxd/shahanxd">
+  <picture width="100">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahanxd/shahanxd/5f948d42601203cea4e8177a0b1b8c8173a42d0b/about_dark.svg">
   </picture>
 </a>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notshahanxd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahanxd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCyjEeSvqUYPtwiZmyd1q_Yw) 
